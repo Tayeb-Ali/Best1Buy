@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">Best1By</string>
+    <string name="app_name">Best1Buy</string>
     <string name="app_description">Universal Woocommerce Android App </string>
     <!--Splash Image text-->
-    <string name="lbl_grocery">Pro</string>
-    <string name="lbl_store">Shop</string>
+    <string name="lbl_grocery">Best</string>
+    <string name="lbl_store">1Buy</string>
 
     <!--App Font-->
     <string name="font_Bold" translatable="false">fonts/Jost-Bold.ttf</string>
