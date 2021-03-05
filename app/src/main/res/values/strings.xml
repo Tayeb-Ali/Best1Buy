@@ -325,16 +325,9 @@
 
     <string-array name="language">
         <item>English</item>
-        <item>Hindi</item>
         <item>French</item>
-        <item>Spanish</item>
         <item>German</item>
-        <item>Indonesian</item>
-        <item>Afrikaans</item>
-        <item>Portuguese</item>
-        <item>Turkish</item>
         <item>Arabic</item>
-        <item>Vietnamese</item>
     </string-array>
 
     <string name="order_cancel_1">Product is being delivered to a wrong address</string>
