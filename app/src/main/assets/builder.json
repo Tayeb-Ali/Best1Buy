@@ -1,0 +1,81 @@
+{
+  "dashboard": {
+    "layout": "layout1",
+    "sorting": [
+      "slider",
+      "newest_product",
+      "feature_products",
+      "vendor",
+      "deal_of_the_day",
+      "best_selling_product",
+      "sale_product",
+      "offer",
+      "suggested_for_you",
+      "you_may_like"
+    ],
+    "backgroundColor": "#fff1cc00",
+    "appBars": {
+      "title": "Dashboard",
+      "appBarIcon": "null",
+      "backgroundColor": "#fcf20606",
+      "appBarLayout": "null"
+    },
+    "sliderView": {
+      "enable": true
+    },
+    "newProduct": {
+      "enable": true,
+      "title": "New Arrivals",
+      "viewAll": "View  all"
+    },
+    "feature": {
+      "enable": true,
+      "title": "Featured Products",
+      "viewAll": "View  all"
+    },
+    "saleProduct": {
+      "enable": true,
+      "title": "Sale Products",
+      "viewAll": "View  all"
+    },
+    "dealOfTheDay": {
+      "enable": true,
+      "title": "Deals Of the day",
+      "viewAll": "View  all"
+    },
+    "bestSaleProduct": {
+      "enable": true,
+      "title": "Best Selling Products",
+      "viewAll": "View  all"
+    },
+    "offerProduct": {
+      "enable": true,
+      "title": "Available Offer",
+      "viewAll": "View  all"
+    },
+    "suggestionProduct": {
+      "enable": true,
+      "title": "Suggested For You",
+      "viewAll": "View  all"
+    },
+    "youMayLikeProduct": {
+      "enable": true,
+      "title": "You May also Like",
+      "viewAll": "View  all"
+    }
+  },
+  "productdetailview": {
+    "layout": "layout1"
+  },
+  "appsetup": {
+    "appName": "Proshop",
+    "primaryColor": "#FC4253",
+    "secondaryColor": "#FDABAE",
+    "textPrimaryColor": "#212121",
+    "textSecondaryColor": "#757575",
+    "backgroundColor": "#FCFDFD",
+    "consumerKey": "ck_a7b73b34cd6e498646dc53ef2af2da191447f815",
+    "consumerSecret": "cs_0a31f8b72b233561ceb84775300e8bb607dbf6ec",
+    "appUrl": "https://iqonic.design/wp-themes/proshop/wp-json/"
+  }
+}

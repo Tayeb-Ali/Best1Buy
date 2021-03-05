@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "817676032106",
+    "firebase_url": "https://proshop-db9ef.firebaseio.com",
+    "project_id": "proshop-db9ef",
+    "storage_bucket": "proshop-db9ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817676032106:android:e5b90c01888a63c0791213",
+        "android_client_info": {
+          "package_name": "com.best1buy.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817676032106-5boecrkr6nic069rpadacv9c2k09stud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgDzeog13SVMCIUBiBEP8Y8SSwCfAgcYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817676032106-5boecrkr6nic069rpadacv9c2k09stud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817676032106:android:f793912889770d46791213",
+        "android_client_info": {
+          "package_name": "com.best1buy.shop.multivendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817676032106-5boecrkr6nic069rpadacv9c2k09stud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgDzeog13SVMCIUBiBEP8Y8SSwCfAgcYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817676032106-5boecrkr6nic069rpadacv9c2k09stud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
